@@ -43,5 +43,5 @@ Além da versão original da DIO, foram adicionadas as seguintes funcionalidades
 
 ## 📚 Créditos
 
-Projeto original fornecido pela [Digital Innovation One (DIO)](https://dio.me).
+Projeto original fornecido pela [Digital Innovation One (DIO)](https://dio.me).  
 Melhorias implementadas por Cristiane Machado.
