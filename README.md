@@ -38,7 +38,7 @@ Além da versão original da DIO, foram adicionadas as seguintes funcionalidades
 
 📸 Preview
 
-![Preview do Jogo]()
+![Preview do Jogo](./src/image/jogo.png)
 
 
 ## 📚 Créditos
